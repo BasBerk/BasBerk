@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on IPMHub, the package manager with the best Life Cycle management there is!!<br>🤝 I’m looking for help with growing our reach and Business<br>🌱 I’m currently learning Python and Javascript<br>💬 Ask me about networking or automation of resources but I have to warn you it will be a long night<br>
+🔭 I’m currently working on IPMHub, the package manager with the best Life Cycle management there is!!<br>🤝 Want to DRY you whole deployment? Join us st [ipmhub.io](https://ipmhub.io) <br>💬 Ask me about networking or automation of resources but I have to warn you it will be a long night<br>
 
 
 ## 🌐 Socials:
